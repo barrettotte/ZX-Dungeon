@@ -5,9 +5,9 @@
 * It plays a lot like PacMan and is based off of an example located in the ZX Spectrum Coding Club book. 
 * I had a lot of fun learning this language.
 
-###[Itch.io Project Page](https://barrettotte.itch.io/zx-dungeon)
+### [Itch.io Project Page](https://barrettotte.itch.io/zx-dungeon)
 
-###[ZX Spectrum Game Jam Entry](https://itch.io/jam/zx-spectrum-basic-jam/rate/150038)
+### [ZX Spectrum Game Jam Entry](https://itch.io/jam/zx-spectrum-basic-jam/rate/150038)
 
 <br />
 
